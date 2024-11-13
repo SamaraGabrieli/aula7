@@ -11,7 +11,7 @@
 <div style="text-align: center;">
     <img src="imagem/logo.webp" alt="burguer_logo" class="imagem">
 
-    <h1 class="titulo">FLIPPER LANCHES</h1>
+    <h1 class="titulo" style="font-family:'Times New Roman', Times, serif">FLIPPER LANCHES</h1>
 
     <img src="imagem/logo.webp" alt="burguer_logo" class="imagem">
 
