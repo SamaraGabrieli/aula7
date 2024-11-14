@@ -18,7 +18,7 @@
 </div>
 
 <div style="background-color:brown;">
-    <p class="texto3">Combos do dia </p>
+    <p class="texto3">Combos do dia! </p>
 
     <img src="imagem/f1.jpg" class="imagem2    ">
     <img src="imagem/f2.jpg" class="imagem2">
