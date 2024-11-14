@@ -27,7 +27,7 @@
 <br><br>
 
 <div style="background-color:brown;">
-    <p class="texto3">Flipper Gourmet</p>
+    <p class="texto3">Flipper Gourmett</p>
 
     <img src="imagem/p1.jpg" class="imagem2    ">
     <img src="imagem/p2.jpg" class="imagem2">
